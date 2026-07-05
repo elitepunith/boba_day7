@@ -18,6 +18,9 @@ body {
     text-align: center;
 
     font-family: 'Courier New', Courier, monospace;
+
+    font-size: 4rem;
+
 }
 
 .gii {
@@ -45,4 +48,23 @@ img {
     max-width: 100%;
     height: auto;
 
+}
+
+footer {
+
+    font-family: 'Courier New', Courier, monospace;
+
+    color: aliceblue;
+
+    text-align: center;
+    background-color: black;
+}
+
+.ff {
+
+    display: block;
+    
+  margin: 0 auto;
+    max-width: 20%;
+    height: auto;
 }
