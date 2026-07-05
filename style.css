@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/');
+
+body {
+
+    background-color:rgb(74, 60, 108) ;
+
+* {
+  cursor: url('https://cdn.cursors-4u.net/previews/sword-f4da5ebe-32.webp') 32 32, auto !important;
+}
+
+
+}
+
+.jii {
+
+    color: aliceblue;
+    
+    text-align: center;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.gii {
+
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+.ee {
+
+    color: aliceblue;
+
+    font-family: 'Courier New', Courier, monospace;
+
+    line-height: 1.5;
+
+}
+
+img {
+
+    display: block;
+
+     margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+
+}
